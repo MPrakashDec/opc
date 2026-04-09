@@ -1,0 +1,6 @@
+# Add your Dhan credentials below (get from https://web.dhan.co)
+# Format: one value per line, or key=value
+# Access token expires in 24 hours - regenerate when needed
+
+client_id=1106665755
+access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzc1MDYxMzczLCJpYXQiOjE3NzQ5NzQ5NzMsInRva2VuQ29uc3VtZXJUeXBlIjoiU0VMRiIsIndlYmhvb2tVcmwiOiIiLCJkaGFuQ2xpZW50SWQiOiIxMTA2NjY1NzU1In0.C3KDaHcPpbWm3bHA0Dhp7EIE2K1k7OIZcIrPMwELpcHzeCD2R_UFGiOvnLYVRb5JTruZGTR45fBtLcMzf02djg

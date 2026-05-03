@@ -1,0 +1,31 @@
+# Logs
+logs/
+*.log
+
+# Sessions and Credentials
+stockmock_session.json
+gocharting_session.json
+credentials.json
+token.txt
+
+# Screenshots and Debug Artifacts
+*.png
+*.html
+*.txt
+sim_content.html
+sim_text.txt
+engine_output.txt
+stockmock_content.txt
+stockmock_elements.json
+stockmock_elements_debug.json
+gocharting_elements.json
+gocharting_popup_debug.txt
+gocharting_source.html
+stockmock_source.html
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data
+data/
